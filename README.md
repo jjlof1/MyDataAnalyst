@@ -6,4 +6,4 @@ I am a versatilist and easily adapt to different roles; Sales 🤝, Consultant �
 
 ## Tools 🛠️
 
-<a href="[https://www.automationanywhere.com]" target="_blank"> <img align="left" src="https://www.automationanywhere.com/sites/default/files/images/AAI/automation-anywhere-logo-a-only.png" alt="pytorch" height="42px"/> </a>
+<a href="https://www.automationanywhere.com/" target="_blank"> <img align="left" src="https://www.automationanywhere.com/sites/default/files/images/AAI/automation-anywhere-logo-a-only.png" alt="pytorch" height="42px"/> </a>
