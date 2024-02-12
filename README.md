@@ -11,10 +11,10 @@ I am a versatilist and easily adapt to different roles; Sales 🤝, Consultant �
 <a href="https://giphy.com/gifs/therealmarkpain-marketing-digital-world-PpVjpSOjZDn9lfPE2L">
 
 
-🔍 I’m looking for an opportunity as a Data Analyst
-🌱 Currently learning and improving within the tech world
-💬 Ask me about anything and everything
-⚡ Fun fact: I ❤️ art, football, forests, music, pets and videogames
+  - 🔍 I’m looking for an opportunity as a Data Analyst
+  - 🌱 Currently learning and improving within the tech world
+  - 💬 Ask me about anything and everything
+  - ⚡ Fun fact: I ❤️ art, football, forests, music, pets and videogames
 
 ## Tools 🛠️
 
