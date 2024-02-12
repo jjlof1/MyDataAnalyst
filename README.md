@@ -5,15 +5,15 @@
 I am a versatilist and easily adapt to different roles; Sales 🤝, Consultant 💻, RPA Developer 🤖 or beginner level Data Analyst 📈, depending on what the project requires. I love exploring new technologies and use creativity to solve challenges that I faced.
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://ko-fi.com/sciencepal" >
+<a href="https://ko-fi.com/sciencepal">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXNqczUyMnljczU4MnVxczNueWJ0emN0ODhqbno0dm8zeTEzYmowayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PpVjpSOjZDn9lfPE2L/giphy.gif" alt="side Image" align="right" width="200" height="auto" height="auto" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXNqczUyMnljczU4MnVxczNueWJ0emN0ODhqbno0dm8zeTEzYmowayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PpVjpSOjZDn9lfPE2L/giphy.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://giphy.com/gifs/therealmarkpain-marketing-digital-world-PpVjpSOjZDn9lfPE2L">
 
 - 🔍 I’m looking for an opportunity as a Data Analyst
 - 🌱 Currently learning and improving within the tech world
 - 💬 Ask me about anything and everything
-- ⚡ Fun fact: I ❤️ art, football, forests, music, pets and videogames
+- ⚡ Fun: I ❤️ art, football, forests, music, pets and videogames
 
 ## Tools 🛠️
 
