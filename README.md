@@ -16,13 +16,14 @@ Don't forget to drink water 💧
   - 💬 Ask me about anything and everything
   - ⚡ Fun fact: I ❤️ art, football, forests, music, pets and videogames
 
-## Check out 📄
-
-<a href="https://1drv.ms/f/s!AtRP9YSCHSXzg5owWY-pjzgv0awueA?e=8WYu0H">MyResume</a></li>
 
 ## Datasets 📂
 
 <a href="https://github.com/jjlof1/MyRprojects">MyProjects</a></li>
+
+## Check out 📄
+
+<a href="https://1drv.ms/f/s!AtRP9YSCHSXzg5owWY-pjzgv0awueA?e=8WYu0H">MyResume</a></li>
 
 Feel free to contact me 🤙
 
