@@ -2,6 +2,8 @@
 
 I am a versatilist and easily adapt to different roles; Sales 🤝, Consultant 💻, RPA Developer 🤖 or beginner level Data Analyst 📈, depending on what the project requires. I love exploring new technologies and use creativity to solve challenges that I faced.
 
+Don't forget to drink water 💧
+
 <img src="https://github.com/jjlof1/jjlof1/blob/main/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
 <img src="https://github.com/jjlof1/jjlof1/blob/main/digital_world.gif" alt="side Image" align="right" width="200" height="auto" /> 
@@ -21,6 +23,8 @@ I am a versatilist and easily adapt to different roles; Sales 🤝, Consultant �
 ## Datasets 📂
 
 <a href="https://github.com/jjlof1/MyRprojects">MyProjects</a></li>
+
+Feel free to contact me 🤙
 
 ## Tools 🛠️
 
