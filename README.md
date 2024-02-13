@@ -20,6 +20,10 @@ I am a versatilist and easily adapt to different roles; Sales 🤝, Consultant �
 
 <a href="https://1drv.ms/f/s!AtRP9YSCHSXzg5owWY-pjzgv0awueA?e=8WYu0H">MyResume</a></li>
 
+## Datasets 📂
+
+<a href="https://github.com/jjlof1/MyRprojects">MyProjects</a></li>
+
 ## Tools 🛠️
 
 <a href="https://www.microsoft.com/en-us/microsoft-365/" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_365_%282022%29.svg" alt="m365" height="42px"/> </a>
