@@ -18,7 +18,7 @@ I am a versatilist and easily adapt to different roles; Sales 🤝, Consultant �
 
 ## Check out 📄
 
-<a href="https://www.stanleylim.me/resume/resume.pdf">MyResume</a>.</li>
+<a href="https://github.com/jjlof1/MyResume/blob/main/CV%20Jose%20Juan%20Lopez%20(Eng).pdf">MyResume</a>.</li>
 
 ## Tools 🛠️
 
