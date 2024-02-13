@@ -14,7 +14,7 @@ Don't forget to drink water 💧
   - 🔍 I’m looking for an opportunity as a Data Analyst
   - 🌱 Currently learning and improving within the tech world
   - 💬 Ask me about anything and everything
-  - ⚡ Fun fact: I ❤️ art, football, forests, music, pets and videogames
+  - ⚡ Fun fact: I ❤️ art, football, music, pets, travel and videogames
 
 
 ## Datasets 📂
