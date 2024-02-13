@@ -1,5 +1,3 @@
-![Header](https://github.com/jjlof1/MyDataAnalyst/blob/main/readme_header.PNG "Header")
-
 ## Welcome to my profile ladies and gentlemen 👋. I'm Jose Juan or JJ!
 
 I am a versatilist and easily adapt to different roles; Sales 🤝, Consultant 💻, RPA Developer 🤖 or beginner level Data Analyst 📈, depending on what the project requires. I love exploring new technologies and use creativity to solve challenges that I faced.
