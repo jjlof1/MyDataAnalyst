@@ -18,7 +18,7 @@ I am a versatilist and easily adapt to different roles; Sales 🤝, Consultant �
 
 ## Check out 📄
 
-<a href="https://1drv.ms/f/s!AtRP9YSCHSXzg5owWY-pjzgv0awueA?e=8WYu0H">MyResumes</a></li>
+<a href="https://1drv.ms/f/s!AtRP9YSCHSXzg5owWY-pjzgv0awueA?e=8WYu0H">MyResume</a></li>
 
 ## Tools 🛠️
 
