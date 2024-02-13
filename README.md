@@ -1,4 +1,4 @@
-[![Header](https://github.com/jjlof1/MyDataAnalyst/blob/main/readme_header.PNG "Header")](https://jjlof1.dev/)
+[![Header](https://github.com/jjlof1/MyDataAnalyst/blob/main/readme_header.PNG "Header")]
 
 ## Welcome to my profile ladies and gentlemen 👋. I'm Jose Juan or JJ!
 
