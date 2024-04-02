@@ -30,9 +30,11 @@ Feel free to contact me 🤙
 ## Tools 🛠️
 
 <a href="https://www.microsoft.com/en-us/microsoft-365/" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_365_%282022%29.svg" alt="m365" height="42px"/> </a>
+<a href="https://www.microsoft.com/es-es/power-platform/products/power-bi" target="_blank"> <img align="left" src="https://powerwiki.net/images/a/aa/PowerBI_scalable.svg" alt="powerbi" height="42px"/> </a>
 <a href="https://www.uipath.com/" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/de/2/21/UiPath_logo.svg" alt="uipath" height="42px"/> </a>
 <a href="https://electroneek.com/" target="_blank"> <img align="left" src="https://electroneek.com/access/img/logo-electroneek.svg" alt="electroneek" height="42px"/> </a>
 <a href="https://www.automationanywhere.com/" target="_blank"> <img align="left" src="https://www.automationanywhere.com/sites/default/files/images/AAI/automation-anywhere-logo-a-only.png" alt="automationanywhere" height="42px"/> </a>
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-automate" target="_blank"> <img align="left" src="https://powerwiki.net/images/4/48/Powerautomate.svg" alt="powerautomate" height="42px"/> </a>
 <a href="https://www.r-project.org/" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="r" height="42px"/> </a>
 <a href="https://cloud.google.com/" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" alt="sql" height="42px"/> </a>
 <a href="https://www.python.org/" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" height="42px"/> </a>
